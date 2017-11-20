@@ -8,7 +8,7 @@ padding-left:10px;">
 
 I am a post-graduate student at the University of Glasgow [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). Studying the MSc Research Methods of Psychological Science. 
 
-My research interests can be found here:[Untitled1]
+My research interests can be found here: 
 
 
 I work with [Dr David Simmons](https://www.gla.ac.uk/schools/psychology/staff/davidsimmons/)
