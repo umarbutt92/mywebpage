@@ -1,5 +1,5 @@
-name: "mywebpage"  
-author: "YOUR NAME"  
+name: "Research"  
+author: "Muhammad Umar Butt"  
 output_dir: "docs"  
 output:  
   html_document:  
@@ -7,7 +7,7 @@ output:
     theme: flatly  
     css: style.css
 navbar:  
-  title: "My First Webpage"
+  title: "Research"
   right:
     - text: Publications
       href: pub2.html

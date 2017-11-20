@@ -6,10 +6,9 @@ title: "Muhammad Umar Butt"
 float: right;
 padding-left:10px;">
 
-I am a post-graduate student at the University of Glasgow [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). Studying the MSc Research Methods of Psychological Science. 
+&nbsp;
 
-My research interests can be found here: 
+I am a postgraduate student in the University of Glasgow's [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). Working with [Dr David Simmons](https://www.gla.ac.uk/schools/psychology/staff/davidsimmons/)
 
-
-I work with [Dr David Simmons](https://www.gla.ac.uk/schools/psychology/staff/davidsimmons/)
+Research Interests: [Research](http://rstudio1.psy.gla.ac.uk:8787/files/mywebpage/docs/Research.html)
 
