@@ -1,9 +1,17 @@
-name: "Professional Skills"  
-author: "Muhammad Umar Butt"  
+name: "mywebpage"  
+author: "YOUR NAME"  
 output_dir: "docs"  
 output:  
   html_document:  
     self_contained: no  
     theme: flatly  
+    css: style.css
 navbar:  
   title: "My First Webpage"
+  right:
+    - text: Publications
+      href: pub2.html
+    - text: Posters
+      href: publications.html#posters
+    - text: Github
+      href: https://github.com/umarbutt92
