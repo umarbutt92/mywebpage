@@ -1,50 +1,9 @@
----
-title: "Publications"
-output:
-  html_document:
-    toc: true
-    toc_float: true
----
+&nbsp; 
 
-# Publications
+###Glasgow Caledonian University 
 
-1. a
-1. b
-1. c
-1. d
-1. e
-1. f
-1. g
-1. h
-1. i
-1. j
+2016 - Present 
 
-## Talks
+Assisting a research project for Applied Health Research, Public Health Research Group in the Department of Psychology - 
 
-1. a
-1. b
-1. c
-1. d
-1. e
-1. f
-1. g
-1. h
-1. i
-1. j
-
-## Posters
-
-1. a
-1. b
-1. c
-1. d
-
-## Open Data 
-
-1. a
-1. b
-1. c
-1. d
-1. e
-1. f
-1. g
+- King, C., Currie, K., Dickson, A., Smith, M., Smith, F., & Flowers, P. (2017). Developing interventions to reduce AMR associated with companion animals: A multi-method examination of the existing evidence, UK-expert opinion and the perspectives of the pet-owning public, and companion animal vets. Glasgow, Glasgow Caledonian University (Report submitted to Health Protection Scotland).

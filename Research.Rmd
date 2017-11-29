@@ -1,9 +1,13 @@
-name: "Research"  
-author: "YOUR NAME"  
-output_dir: "docs"  
-output:  
-  html_document:  
-    self_contained: no  
-    theme: flatly  
-navbar:  
-  title: "Reseach"  
+&nbsp;
+
+My background research examines how visual aesthetics and colour preference can elicit emotional responses through judgement. Currently, I am investigating material perception of liquids and whether certain liquids with different colours and viscosities elicit an emotional response and how this is affected through judgements in observing visual aesthetics of liquids.
+
+To further my studies, i am willing to involve various factors that influence and alter judgements of liquids and developing further analysis in colour preference and visual aesthetics. I throughly enjoy conducting research in this field because i paint and install art works in exhibitions, as well as work with art obejcts my self, thus integrating a psycholgical perspective and art form, i find very interesting and unique in its own manner. 
+
+
+Link to an idea of my work:[Oozing Liquids I](https://www.youtube.com/watch?v=M5xnAdVPbgQ)
+                           [Oozing Liquids II](https://www.youtube.com/watch?v=mE9VpirfhGk)
+
+
+
+
